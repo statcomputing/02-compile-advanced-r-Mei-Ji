@@ -29,4 +29,4 @@ solve: use code find the bookdown package and delete that package. then directly
 
 
 result:
-get _main.pdf
+Output created: _book/_main.pdf
